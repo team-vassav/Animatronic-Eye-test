@@ -1,4 +1,4 @@
-# Anematronic-Eye
+# Animatronic-Eye
 This repository provides the work done by team VassaV as an undergraduate mini project
 
 Animatronics is a blended word which is formed by the combination of Animate and Electronics. We (VassaV) as a team are interested in multi disciplinary fields such as Computer Science, Robotics and Electronics. With the keen interest on this we created this project with the inspiration of Walt Disney's facinated puppets in his cartoon shows. 
